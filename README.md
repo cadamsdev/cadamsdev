@@ -61,11 +61,17 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 <div align="center">
 
-[![Notex](https://github-readme-stats.vercel.app/api/pin/?username=usenotex&repo=notex&theme=vue-dark&hide_border=true)](https://github.com/usenotex/notex)
+### 📝 [Notex](https://usenotex.pages.dev/) - A minimal, open-source, local-first Markdown note-taking app
+[![Notex](https://img.shields.io/badge/Try_Notex-42B883?style=for-the-badge&logo=markdown&logoColor=white)](https://usenotex.pages.dev/)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usenotex/notex)
+
+---
+
 [![VS Code JetBrains Icons](https://github-readme-stats.vercel.app/api/pin/?username=cadamsdev&repo=vscode-jetbrains-icon-theme&theme=vue-dark&hide_border=true)](https://github.com/cadamsdev/vscode-jetbrains-icon-theme)
+[![Image Optimizer Action](https://github-readme-stats.vercel.app/api/pin/?username=stellasoftio&repo=image-optimizer-action&theme=vue-dark&hide_border=true)](https://github.com/stellasoftio/image-optimizer-action)
 
 [![SyntaxRecall](https://github-readme-stats.vercel.app/api/pin/?username=syntaxrecall&repo=syntaxrecall&theme=vue-dark&hide_border=true)](https://github.com/syntaxrecall/syntaxrecall)
-[![Image Optimizer Action](https://github-readme-stats.vercel.app/api/pin/?username=stellasoftio&repo=image-optimizer-action&theme=vue-dark&hide_border=true)](https://github.com/stellasoftio/image-optimizer-action)
+[![Lazy Release](https://github-readme-stats.vercel.app/api/pin/?username=lazy-release&repo=lazy-release&theme=vue-dark&hide_border=true)](https://github.com/lazy-release/lazy-release)
 
 </div>
 
