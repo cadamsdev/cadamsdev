@@ -37,8 +37,6 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxbTNyM2NqMnBocXY4OWVtMWFuOHBhNm1qcXBqbGdyYWFtYmRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4KhSYN6DougBdI2I/giphy.gif" width="80">
-
 ### Help me keep open source alive! 🚀
 
 I build **free, open-source tools** that developers use every day.  
