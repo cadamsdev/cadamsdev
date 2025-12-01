@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-cadamsdev.com-42B883?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cadamsdev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cadamsdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadamsdev/)
-[![Twitter](https://img.shields.io/badge/Twitter-@cadamsdev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cadamsdev)
+[![X](https://img.shields.io/badge/X-@cadamsdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cadamsdev)
 [![Reddit](https://img.shields.io/badge/Reddit-cadamsdev-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/cadamsdev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-cadams-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cadams)
 [![Sponsors](https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/cadamsdev)
