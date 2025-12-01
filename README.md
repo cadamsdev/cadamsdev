@@ -74,9 +74,13 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 ---
 
 [![Image Optimizer Action](https://github-readme-stats.vercel.app/api/pin/?username=stellasoftio&repo=image-optimizer-action&theme=vue-dark&hide_border=true)](https://github.com/stellasoftio/image-optimizer-action)
-
-[![SyntaxRecall](https://github-readme-stats.vercel.app/api/pin/?username=syntaxrecall&repo=syntaxrecall&theme=vue-dark&hide_border=true)](https://github.com/syntaxrecall/syntaxrecall)
 [![Lazy Release](https://github-readme-stats.vercel.app/api/pin/?username=lazy-release&repo=lazy-release&theme=vue-dark&hide_border=true)](https://github.com/lazy-release/lazy-release)
+
+---
+
+### 📚 [SyntaxRecall](https://syntaxrecall.com/) - Your go-to reference for cheatsheets and tools
+[![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://syntaxrecall.com/)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntaxrecall/syntaxrecall)
 
 </div>
 
