@@ -85,12 +85,9 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cadamsdev&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cadamsdev&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadamsdev&theme=vue)
 
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadamsdev&layout=compact&theme=vue-dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadamsdev&theme=vue" alt="Stats" />
 
 </div>
 
