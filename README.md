@@ -33,6 +33,31 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 ---
 
+## 💖 Support My Work
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBxbTNyM2NqMnBocXY4OWVtMWFuOHBhNm1qcXBqbGdyYWFtYmRvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4KhSYN6DougBdI2I/giphy.gif" width="80">
+
+### Help me keep open source alive! 🚀
+
+I build **free, open-source tools** that developers use every day.  
+Your sponsorship directly funds more features, better maintenance, and new projects.
+
+**Every contribution makes a difference** — whether it's a coffee ☕ or monthly support.
+
+<br>
+
+[![Sponsor on GitHub](https://img.shields.io/badge/💖_Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/cadamsdev)
+
+<br>
+
+*Thank you for believing in open source!* 🙏
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
