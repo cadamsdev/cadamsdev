@@ -84,21 +84,12 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 
 <div align="center">
 
-### 📝 [Notex](https://usenotex.pages.dev/) - A minimal, open-source, local-first Markdown note-taking app
-[![Notex](https://img.shields.io/badge/Try_Notex-42B883?style=for-the-badge&logo=markdown&logoColor=white)](https://usenotex.pages.dev/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usenotex/notex)
-
-### 🎨 [VS Code JetBrains Icon Theme](https://vscode-jetbrains-icon-theme.pages.dev/) - Official JetBrains icons for VS Code
-[![View Icons](https://img.shields.io/badge/View_Icons-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode-jetbrains-icon-theme.pages.dev/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadamsdev/vscode-jetbrains-icon-theme)
-
-### 🚀 [Lazy Release](https://lazy-release.pages.dev/) - Automates versioning, publishing, and changelogs
-[![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://lazy-release.pages.dev/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-release/lazy-release)
-
-### 📚 [SyntaxRecall](https://syntaxrecall.com/) - Your go-to reference for cheatsheets and tools
-[![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://syntaxrecall.com/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntaxrecall/syntaxrecall)
+| Project | Description | Links |
+|:-------:|:------------|:-----:|
+| 📝 **Notex** | Minimal, local-first Markdown note-taking app | [![Try](https://img.shields.io/badge/Try-42B883?style=flat-square&logo=markdown&logoColor=white)](https://usenotex.pages.dev/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usenotex/notex) |
+| 🎨 **JetBrains Icons** | Official JetBrains icons for VS Code | [![View](https://img.shields.io/badge/View-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://vscode-jetbrains-icon-theme.pages.dev/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) |
+| 🚀 **Lazy Release** | Automates versioning, publishing & changelogs | [![Site](https://img.shields.io/badge/Site-6366F1?style=flat-square&logo=bookstack&logoColor=white)](https://lazy-release.pages.dev/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lazy-release/lazy-release) |
+| 📚 **SyntaxRecall** | Cheatsheets & tools for developers | [![Site](https://img.shields.io/badge/Site-6366F1?style=flat-square&logo=bookstack&logoColor=white)](https://syntaxrecall.com/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syntaxrecall/syntaxrecall) |
 
 </div>
 
