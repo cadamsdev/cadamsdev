@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experience. I mainly build websites, web apps, desktop apps and libraries.
+I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experience building websites, web apps, desktop apps and libraries.
 
 - 🦀 Currently obsessed with **Rust** and its blazing-fast performance
 - 💚 Building beautiful UIs with **Vue.js**
