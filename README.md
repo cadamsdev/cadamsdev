@@ -65,19 +65,13 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 [![Notex](https://img.shields.io/badge/Try_Notex-42B883?style=for-the-badge&logo=markdown&logoColor=white)](https://usenotex.pages.dev/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usenotex/notex)
 
----
-
 ### 🎨 [VS Code JetBrains Icon Theme](https://vscode-jetbrains-icon-theme.pages.dev/) - Official JetBrains icons for VS Code
 [![View Icons](https://img.shields.io/badge/View_Icons-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode-jetbrains-icon-theme.pages.dev/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cadamsdev/vscode-jetbrains-icon-theme)
 
----
-
 ### 🚀 [Lazy Release](https://lazy-release.pages.dev/) - Automates versioning, publishing, and changelogs
 [![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://lazy-release.pages.dev/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazy-release/lazy-release)
-
----
 
 ### 📚 [SyntaxRecall](https://syntaxrecall.com/) - Your go-to reference for cheatsheets and tools
 [![Visit Site](https://img.shields.io/badge/Visit_Site-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)](https://syntaxrecall.com/)
