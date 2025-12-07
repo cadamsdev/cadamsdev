@@ -23,7 +23,7 @@
 
 I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experience building websites, web apps, desktop apps and libraries.
 
-- 🦀 Currently obsessed with **Rust** and its blazing-fast performance
+- 🦀 Currently obsessed with **Rust**
 - 💚 Building beautiful UIs with **Vue.js**
 - 🐧 Linux enthusiast (Fedora is my favorite distro)
 - 💼 Working at **Experian**
@@ -37,7 +37,7 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 <div align="center">
 
-### Help me keep open source alive! 🚀
+### Help me continue building open source! 🚀
 
 I build **free, open-source tools** that developers use every day.  
 Your sponsorship directly funds more features, better maintenance, and new projects.
@@ -50,7 +50,7 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 
 <br>
 
-*Thank you for believing in open source!* 🙏
+*Thank you!* 🙏
 
 </div>
 
