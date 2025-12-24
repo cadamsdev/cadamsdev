@@ -95,16 +95,6 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cadamsdev&theme=vue)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cadamsdev&theme=vue" alt="Stats" />
-
-</div>
-
 <div align="center">
 
 ### 💬 Let's Connect!
@@ -114,8 +104,6 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadamsdev@outlook.com)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=cadamsdev&color=42B883&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
