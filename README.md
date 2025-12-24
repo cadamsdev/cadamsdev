@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
@@ -30,8 +28,6 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 - 🌟 Passionate about **open-source** software
 
 <br clear="right"/>
-
----
 
 ## 💖 Support My Work
 
@@ -53,8 +49,6 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 *Thank you!* 🙏
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -78,8 +72,6 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 
 </div>
 
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -92,8 +84,6 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 | 📚 **SyntaxRecall** | Cheatsheets & tools for developers | [![Site](https://img.shields.io/badge/Site-6366F1?style=flat-square&logo=bookstack&logoColor=white)](https://syntaxrecall.com/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syntaxrecall/syntaxrecall) |
 
 </div>
-
----
 
 <div align="center">
 
