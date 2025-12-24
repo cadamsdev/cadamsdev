@@ -23,7 +23,7 @@
 
 I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experience building websites, web apps, desktop apps and libraries.
 
-- 🦀 Currently obsessed with **Rust**
+- 📚 Currently learning **Rust** and **Zig**
 - 💚 Building beautiful UIs with **Vue.js**
 - 🐧 Linux enthusiast (Fedora is my favorite distro)
 - 💼 Working at **Experian**
