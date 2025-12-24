@@ -39,7 +39,7 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 ### Help me continue building open source! 🚀
 
-I build **free, open-source tools** that developers use every day.  
+I enjoy building **free, open-source software** for the community.  
 Your sponsorship directly funds more features, better maintenance, and new projects.
 
 **Every contribution makes a difference** — whether it's a coffee ☕ or monthly support.
