@@ -23,7 +23,7 @@ I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experienc
 
 - 📚 Currently learning **Rust** and **Zig**
 - 💚 Building beautiful UIs with **Vue.js**
-- 🐧 Linux enthusiast (Fedora is my favorite distro)
+- 🐧 Linux enthusiast
 - 💼 Working at **Experian**
 - 🌟 Passionate about **open-source** software
 
@@ -69,6 +69,19 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+---
+
+## 🔧 Tools & Platforms
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
