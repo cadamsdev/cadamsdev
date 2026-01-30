@@ -15,17 +15,23 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## Current Projects
+- Nether Lang - A general-purpose programming language empowering everyone to build fast, safe, and robust software. (Coming soon)
+- [GitArbor TUI](https://github.com/cadamsdev/gitarbor-tui) - A next-generation Git client that runs in your terminal. Built with Bun, OpenTUI, and React. 
+- [Restman](https://github.com/cadamsdev) - A simple and easy to use REST API client that runs in your terminal (TUI). Open-source alternative to Postman. 
+- [Changesets](https://github.com/lazy-release/changesets) - A tool that automates versioning, publishing and creating changelogs for monorepos.
+- [NoteX](https://github.com/usenotex/notex) - A minimal, open-source, local-first Markdown note-taking app with optional cloud sync. Runs natively on Windows and MacOS.
+- [vscode-jetbrains-icon-theme](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) - Icon theme for Visual Studio Code using official JetBrains product icons 
+- [SyntaxRecall](https://github.com/syntaxrecall/syntaxrecall) - Your quick reference for syntax examples and productivity tools. 
+- [Image Optimizer Action](https://github.com/stellasoftio/image-optimizer-action) - A GitHub action that automatically compresses SVG, PNG, JPG, GIF, WEBP, and AVIF in pull requests. Free and open-source alternative to imgbot.
 
-## 🚀 About Me
-
-I'm a **Software Developer** from **Okatie, SC** with **10+ years** of experience building websites, web apps, desktop apps and libraries.
-
-- 📚 Currently learning **Rust** and **Zig**
-- 💚 Building beautiful UIs with **Vue.js**
-- 🐧 Linux enthusiast
-- 💼 Working at **Experian**
-- 🌟 Passionate about **open-source** software
+## Past Projects
+- [Kotlin OSRS](https://github.com/scape-tools/kotlin-osrs) - The First Old School RuneScape Emulator Written In Kotlin.
+- [Scape Editor](https://github.com/scape-tools/scape-editor) - A highly extensible legacy RuneScape file system editor.
+- [OSRS Data Converter](https://github.com/scape-tools/osrs-data-converter) - A tool to convert latest OSRS data into RuneScape's legacy 317 file system format.
+- [OSBot NPC Dumper Plugin](https://github.com/scape-tools/osbot-npc-dumper-plugin) -
+- [Better Sprite Packer](https://github.com/scape-tools/better-sprite-packer) - A random-access sprite packer for RuneScape private servers.
+- [Linux App Store](https://github.com/linuxappstore/linuxappstore) - A universal app store for Linux 
 
 <br clear="right"/>
 
@@ -47,46 +53,5 @@ Your sponsorship directly funds more features, better maintenance, and new proje
 <br>
 
 *Thank you!* 🙏
-
-</div>
-
-## 📚 Currently Learning
-
-<div align="center">
-
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Links |
-|:-------:|:------------|:-----:|
-| **Restman** | Simple REST API client that runs in your terminal | [![Site](https://img.shields.io/badge/Site-6366F1?style=flat-square&logo=bookstack&logoColor=white)](https://userestman.vercel.app/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cadamsdev/restman) |
-| **Notex** | Minimal, local-first Markdown note-taking app | [![Try](https://img.shields.io/badge/Try-42B883?style=flat-square&logo=markdown&logoColor=white)](https://usenotex.pages.dev/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/usenotex/notex) |
-| **JetBrains Icon Theme** | Official JetBrains icons for VS Code | [![View](https://img.shields.io/badge/View-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://vscode-jetbrains-icon-theme.pages.dev/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) |
-| **Lazy Changesets** | A tool that automates versioning, publishing and creating changelogs for monorepos | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lazy-release/changesets) |
-| **SyntaxRecall** | Cheatsheets & tools for developers | [![Site](https://img.shields.io/badge/Site-6366F1?style=flat-square&logo=bookstack&logoColor=white)](https://syntaxrecall.com/) [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syntaxrecall/syntaxrecall) |
-
-</div>
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*I'm always open to interesting conversations and collaboration opportunities.*
-
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadamsdev@outlook.com)
-
-<br>
-
----
-
-⭐️ From [cadamsdev](https://github.com/cadamsdev) with 💚
 
 </div>
