@@ -29,7 +29,7 @@
 - 🎮 [Kotlin OSRS](https://github.com/scape-tools/kotlin-osrs) - The first Old School RuneScape private server written In Kotlin.
 - ✏️ [Scape Editor](https://github.com/scape-tools/scape-editor) - A highly extensible legacy RuneScape file system editor.
 - 🔄 [OSRS Data Converter](https://github.com/scape-tools/osrs-data-converter) - A tool to convert latest OSRS data into RuneScape's legacy 317 file system format.
-- 🔌 [OSBot NPC Dumper Plugin](https://github.com/scape-tools/osbot-npc-dumper-plugin) -
+- 🔌 [OSBot NPC Dumper Plugin](https://github.com/scape-tools/osbot-npc-dumper-plugin) - Collects npc spawn data from old school runescape. 
 - 🖼️ [Better Sprite Packer](https://github.com/scape-tools/better-sprite-packer) - A random-access sprite packer for RuneScape private servers.
 - 🐧 [Linux App Store](https://github.com/linuxappstore/linuxappstore) - A universal app store for Linux.
 
