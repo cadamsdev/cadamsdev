@@ -26,7 +26,7 @@
 - 🗜️ [Image Optimizer Action](https://github.com/stellasoftio/image-optimizer-action) - A GitHub action that automatically compresses SVG, PNG, JPG, GIF, WEBP, and AVIF in pull requests. Free and open-source alternative to imgbot.
 
 ## Past Projects
-- 🎮 [Kotlin OSRS](https://github.com/scape-tools/kotlin-osrs) - The First Old School RuneScape Private Server Written In Kotlin.
+- 🎮 [Kotlin OSRS](https://github.com/scape-tools/kotlin-osrs) - The first Old School RuneScape private server written In Kotlin.
 - ✏️ [Scape Editor](https://github.com/scape-tools/scape-editor) - A highly extensible legacy RuneScape file system editor.
 - 🔄 [OSRS Data Converter](https://github.com/scape-tools/osrs-data-converter) - A tool to convert latest OSRS data into RuneScape's legacy 317 file system format.
 - 🔌 [OSBot NPC Dumper Plugin](https://github.com/scape-tools/osbot-npc-dumper-plugin) -
