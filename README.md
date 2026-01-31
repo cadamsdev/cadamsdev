@@ -16,7 +16,6 @@
 </div>
 
 ## Current Projects
-- 🔥 Nether Lang - A general-purpose programming language empowering everyone to build fast, safe, and robust software. (Coming soon)
 - 🌳 [GitArbor TUI](https://github.com/cadamsdev/gitarbor-tui) - A next-generation Git client that runs in your terminal.
 - 🚀 [Restman](https://github.com/cadamsdev/restman) - A REST API client that runs in your terminal.
 - 📦 [Changesets](https://github.com/lazy-release/changesets) - A tool that automates versioning, publishing and creating changelogs for monorepos.
