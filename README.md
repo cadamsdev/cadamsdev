@@ -17,13 +17,13 @@
 
 ## Current Projects
 - 🔥 Nether Lang - A general-purpose programming language empowering everyone to build fast, safe, and robust software. (Coming soon)
-- 🌳 [GitArbor TUI](https://github.com/cadamsdev/gitarbor-tui) - A next-generation Git client that runs in your terminal. Built with Bun, OpenTUI, and React. 
-- 🚀 [Restman](https://github.com/cadamsdev) - A simple and easy to use REST API client that runs in your terminal (TUI). Open-source alternative to Postman. 
+- 🌳 [GitArbor TUI](https://github.com/cadamsdev/gitarbor-tui) - A next-generation Git client that runs in your terminal.
+- 🚀 [Restman](https://github.com/cadamsdev/restman) - A REST API client that runs in your terminal.
 - 📦 [Changesets](https://github.com/lazy-release/changesets) - A tool that automates versioning, publishing and creating changelogs for monorepos.
-- 📝 [NoteX](https://github.com/usenotex/notex) - A minimal, open-source, local-first Markdown note-taking app with optional cloud sync. Runs natively on Windows and MacOS.
-- 🎨 [vscode-jetbrains-icon-theme](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) - Icon theme for Visual Studio Code using official JetBrains product icons
+- 📝 [NoteX](https://github.com/usenotex/notex) - A minimal, local-first Markdown note-taking app with optional cloud sync. Runs natively on Windows and MacOS.
+- 🎨 [vscode-jetbrains-icon-theme](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) - Visual Studio Code icon theme using official JetBrains product icons
 - 📚 [SyntaxRecall](https://github.com/syntaxrecall/syntaxrecall) - Your quick reference for syntax examples and productivity tools. 
-- 🗜️ [Image Optimizer Action](https://github.com/stellasoftio/image-optimizer-action) - A GitHub action that automatically compresses SVG, PNG, JPG, GIF, WEBP, and AVIF in pull requests. Free and open-source alternative to imgbot.
+- 🗜️ [Image Optimizer Action](https://github.com/stellasoftio/image-optimizer-action) - A GitHub action that automatically compresses SVG, PNG, JPG, GIF, WEBP, and AVIF in pull requests.
 
 ## Past Projects
 - 🎮 [Kotlin OSRS](https://github.com/scape-tools/kotlin-osrs) - The first Old School RuneScape private server written In Kotlin.
