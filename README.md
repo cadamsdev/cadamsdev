@@ -16,6 +16,7 @@
 </div>
 
 ## Current Projects
+- 🛠️ [Web Component Devtools](https://github.com/cadamsdev/web-component-devtools) - Comprehensive developer tools for inspecting, debugging, and monitoring web components.
 - 🌳 [GitArbor TUI](https://github.com/cadamsdev/gitarbor-tui) - A next-generation Git client that runs in your terminal.
 - 🚀 [Restman](https://github.com/cadamsdev/restman) - A REST API client that runs in your terminal.
 - 📦 [Changesets](https://github.com/lazy-release/changesets) - A tool that automates versioning, publishing and creating changelogs for monorepos.
