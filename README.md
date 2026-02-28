@@ -22,7 +22,7 @@
 - 📦 [Changesets](https://github.com/lazy-release/changesets) - A tool that automates versioning, publishing and creating changelogs for monorepos.
 - 📝 [NoteX](https://github.com/usenotex/notex) - A minimal, local-first Markdown note-taking app with optional cloud sync. Runs natively on Windows and MacOS.
 - 🎨 [vscode-jetbrains-icon-theme](https://github.com/cadamsdev/vscode-jetbrains-icon-theme) - Visual Studio Code icon theme using official JetBrains product icons
-- 📚 [SyntaxRecall](https://github.com/syntaxrecall/syntaxrecall) - Programming and technical knowledge for AI training and agentic coding.
+- 📚 [SyntaxRecall](https://syntaxrecall.com) - Programming and technical knowledge for AI training and agentic coding.
 - 🗜️ [Image Optimizer Action](https://github.com/stellasoftio/image-optimizer-action) - A GitHub action that automatically compresses SVG, PNG, JPG, GIF, WEBP, and AVIF in pull requests.
 
 ## Past Projects
